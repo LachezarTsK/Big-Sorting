@@ -1,7 +1,7 @@
 import java.util.*;
 import java.math.*;
 
-public class Streamlined_BigSorting {
+public class Solution {
 	public static void main(String[] args) {
 
 		Scanner reader = new Scanner(System.in);
